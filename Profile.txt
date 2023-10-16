@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="profile.css">
+</head>
+<body>
+    <div class="container">
+    <div class="profilebox">
+        <img src="image/menu.png" class="menu-icon">
+        <img src="image/setting.png" class="setting-icon">
+        <img src="image/profile-pic.png" class="profile-pic">
+        <h1>Thomas</h1>
+        <p>web developer at synxa and google,facebook</p>
+        <div class="social-media">
+            <img src="images/instagram.png">
+            <img src="image/telegram.png">
+            <img src="image/dribble.png">
+        </div>
+        <button type="button">Fallow</button>
+        <div class="profile-bottom">
+            <p> learn about my profile</p>
+            <img src="image/arrow.png">
+        </div>
+    </div>
+    </div>
+</body>
+</html>
